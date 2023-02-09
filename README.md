@@ -1,3 +1,3 @@
 # Nifti-File-Viewer
 
-![overview](method.png)
+![overview](NIFTI-VIEWER-LOGO.png)
